@@ -16,6 +16,7 @@ Este repositorio central funciona como el índice principal de mi trabajo técni
 ## 🛠️ Habilidades Demostradas
 
 * **Automatización E2E & QA:** Creación y ejecución de suites de prueba con **Cypress**, aserciones sobre UI, interacción con elementos dinámicos y validación de APIs REST con **Postman**.
+* Análisis de Datos & Bases de Datos: SQL (Activo), Modelado Relacional, Consultas Avanzadas ( JOIN, GROUP BY, HAVING).
 * **Funciones de Ventana (Window Functions):** Clasificación secuencial de eventos (`ROW_NUMBER`), cálculo de diferencias temporales entre compras (`LAG`) y métricas de retención.
 * **Expresiones de Tabla Comunes (CTEs):** Estructuración modular de consultas SQL avanzadas para análisis de negocio multietapa.
 * **Métricas de Negocio & LTV:** Medición de *Lifetime Value*, ticket promedio, frecuencia de recompra e intervalos de retención de clientes.
